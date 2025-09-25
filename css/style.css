@@ -125,3 +125,22 @@ a {
     font-size: 30px;
     font-weight: 900;
 }
+
+.call-to-action {
+    margin: 50px 100px;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+}
+
+.call-to-action > button {
+    color: white;
+    background-color: #3882F6;
+    border:3px solid white;
+    border-radius: 10px;
+    align-self: center;
+    padding: 8px 25px;
+}
