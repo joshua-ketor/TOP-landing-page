@@ -13,6 +13,7 @@ body {
 .hero,
 footer {
     background-color: #1F2737;
+    color: #F9FAF8;
 }
 
 .main-text {
@@ -143,4 +144,11 @@ a {
     border-radius: 10px;
     align-self: center;
     padding: 8px 25px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
